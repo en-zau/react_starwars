@@ -1,3 +1,5 @@
+GROUPE : Enzo Gouerec - Elouan Bessettes- Cameron Leconte - Romain Caillé - Thomas Henaff 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
